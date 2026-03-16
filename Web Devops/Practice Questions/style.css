@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+}
+
+#main {
+    color: blue;
+}
+
+body {
+    color: white;
+    background-color: cornflowerblue;
+}
+
+#color>button {
+    background-color: purple;
+    color: azure;
+}
+
+#butto:hover {
+    background-color: yellow;
+    color: blue;
+}
+
+h1::first-letter {
+    color: red;
+}
+
+#yes:checked + label {
+    color: darkgreen;
+}
+
+p:nth-of-type(odd) {
+  color: yellow;
+}
+
+
+
+body{
+order: calc();
+}
