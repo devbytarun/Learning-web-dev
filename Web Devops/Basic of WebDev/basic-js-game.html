@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic JS Game</title>
+    <link rel="stylesheet" href="basic-js-game.css">
+</head>
+<body>
+    <main class="container">
+        <h1>Target Tap Game</h1>
+        <p class="subtitle">Click the moving target as many times as you can in 20 seconds.</p>
+
+        <section class="stats">
+            <p>Score: <span id="score">0</span></p>
+            <p>Time: <span id="time">20</span>s</p>
+        </section>
+
+        <button id="start-btn">Start Game</button>
+        <p id="status-message">Press Start to play.</p>
+
+        <section id="game-area" aria-label="Game area">
+            <button id="target" aria-label="Target"></button>
+        </section>
+    </main>
+
+    <script src="basic-js-game.js"></script>
+</body>
+</html>
