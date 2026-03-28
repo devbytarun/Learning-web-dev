@@ -1,10 +1,14 @@
-# My Web Dev Journey
+# My Web Development Journey
 
-BCA Student | Started March 2026
+This repository tracks my progress as a BCA student building practical web development skills.
 
-## What I'm learning
+## Learning Timeline
+- Started: March 2026
+- Current phase: JavaScript, Node.js, and MERN fundamentals
+
+## Skills in Progress
 - HTML
 - CSS
-- JavaScript (coming soon)
-- MERN Stack (goal)
-
+- JavaScript
+- Node.js
+- MERN Stack
